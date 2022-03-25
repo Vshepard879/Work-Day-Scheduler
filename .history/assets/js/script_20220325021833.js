@@ -16,7 +16,7 @@ var sevenPm = $("#19pm");
 var hour = moment().hours();
 var userInput;
 var hourSpan;
-
+// var hourString = $(".hour").text().split(" ");
 
 // Current Day
 

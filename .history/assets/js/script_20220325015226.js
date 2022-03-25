@@ -1,5 +1,6 @@
 // Moment.js
 var currentDate = moment().format('dddd') + " " + moment().format("MMM Do YYYY");
+var currentHour = moment().format('h:mm:ss a');
 // Text hour var
 var nineAm = $("#9am");
 var tenAm = $("#10am");
@@ -16,7 +17,7 @@ var sevenPm = $("#19pm");
 var hour = moment().hours();
 var userInput;
 var hourSpan;
-
+// var hourString = $(".hour").text().split(" ");
 
 // Current Day
 
