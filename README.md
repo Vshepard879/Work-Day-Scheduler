@@ -50,4 +50,8 @@ SO THAT I can manage my time effectively
 ## Screenshot
 `![ScreenShot](/assets/images/screenshot.png)
 
+## GitHub Repo
+https://github.com/Vshepard879/Work-Day-Scheduler
+
 ## Deployed website
+https://vshepard879.github.io/Work-Day-Scheduler/
