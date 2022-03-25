@@ -24,15 +24,13 @@ SO THAT I can manage my time effectively
 
 ## Changes that were made
 - Provided a concise title.
-- integrated a dynamic start button that when clicked initiates the quiz
-- Built the HTML framework, JavaScript functions, and CSS style sheets using tools I learned from past assignments 
-- Updated the selectAnswer buttons to tell when a user chose a correct/incorrect answer
-- Set up an array and function that randomizes the quiz questions as well as lets you proceed to the next question
-- Set up a Timer that runs once the start button is clicked
-- Made it so that when an incorrect answer was chosen using a JS function there was a penalization of 5 seconds
-- Created an end screen, which was reached when all questions were answered or the timer hit zero
-- Created a section on the end screen to input initials as well as save your high score
-- Created a separate HTML and JS file for the score section which could be referenced to by pressing the high score button 
+- The work day calender displays the standard business hours of 9am to 5pm
+- The top of the application displays the current day and date
+- Created a clear day button that deletes the events written in the time boxes
+- Set the boxes to be color coded for past, present, and future.
+- tweaked the CSS from the base code for stylization.
+- Each block contains an input field and save button that can be then stored in local storage.
+- Created to work dynamically with both mobile and desktop viewing
 - Created and flushed out the README.
 
 
@@ -45,6 +43,7 @@ SO THAT I can manage my time effectively
 - Advanced CSS Properties
 - JavaScript
 - jQuery
+- Bootstrap
 
 
 
